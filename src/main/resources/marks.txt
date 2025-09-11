@@ -1,0 +1,1 @@
+1. Если будешь со Spring использовать котлин посмотри Kotlinx Serialization
