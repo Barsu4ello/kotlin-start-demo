@@ -1,13 +1,12 @@
 import lesson8.generics.Box;
 
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 public class Main {
+
     public static final String test = null;
+
     public static void main(String[] args) {
         Object s = "sfdds";
         String n = "";
@@ -22,6 +21,10 @@ public class Main {
         Double a = 2.0;
         long b = 3L;
         getInt(b);
+    }
+
+    public void testFun() {
+
     }
 
     private static String fizzBuzz(int data) {
@@ -46,6 +49,7 @@ public class Main {
     }
 
 }
+
 
 
 
